@@ -1,0 +1,9 @@
+pandas
+pyyaml
+plotly==5.21.0
+ipywidgets>=7.5
+notebook>=5.3
+ipykernel
+kaleido
+nbconvert
+jupyter
